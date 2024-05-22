@@ -1,7 +1,7 @@
 # Aventuras na Terra da Inteligência Artificial Generativa
 
 ## 📒 Descrição
-Utilezei de tecnologias de IA para criar um livro infantil, com o intuito de explicar de forma clara e lúdica o que é a IA Generativa.
+Utilizei de tecnologias de IA para criar um livro infantil, com o intuito de explicar de forma clara e lúdica o que é a IA Generativa.
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT, Leonardo.ai, Canva e Canva IA.
